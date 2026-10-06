@@ -1,0 +1,14 @@
+## .NET build output
+**/bin/
+**/obj/
+
+## SQLite database (created at runtime)
+autosales.db
+autosales.db-shm
+autosales.db-wal
+
+## IDE
+.vs/
+.vscode/
+.idea/
+*.user
